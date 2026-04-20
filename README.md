@@ -79,6 +79,7 @@ Flash **Raspberry Pi OS 32-bit with Desktop** (Trixie) to your SD card using Ras
 sudo apt update
 sudo apt install -y git
 git clone https://github.com/wasdwasd0105/picocalc-pi-zero-2.git
+git clone https://github.com/siq2k/picocalc-pi-zero-2.git
 cd picocalc-pi-zero-2
 ```
 
